@@ -21,5 +21,6 @@ public class Strumyki {
     public static void main(String[] args)  {
          
         System.out.println("Ha!");
+        int dupsko=0;
     }
 }
