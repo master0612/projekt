@@ -18,25 +18,8 @@ public class Strumyki {
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) throws IOException {
-        int i;
-        String g=null;
-        FileInputStream ndd;
-        try{
-        ndd = new FileInputStream("no.txt");
-        } catch(FileNotFoundException e) {
-         System.out.println("Nie można otworzyć pliku ");
-        return;
-        }
-        try {
-do {
-i = ndd.read();
-if(i != -1) System.out.print((char) i);
-} while(i != -1);
-} catch(IOException e) {
-System.out.println("Błąd odczytu pliku ");
-}
-        int dupa = g.length();
+    public static void main(String[] args)  {
+         
+        System.out.println("Ha!");
     }
-    
 }
