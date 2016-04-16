@@ -20,7 +20,7 @@ public class Strumyki {
     public static void main(String[] args)  {
         int tab[] = new int[5];
         tab[5]=60;
-        int d = tab[22];
+        int d = "dsds";
   
 }
 }
