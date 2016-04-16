@@ -5,9 +5,7 @@
  */
 package strumyki;
 
-import java.io.FileInputStream;
-import java.io.FileNotFoundException;
-import java.io.IOException;
+
 
 /**
  *
@@ -18,23 +16,17 @@ public class Strumyki {
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args)  {
-         
-        for(int i = 0 ; i<20;i++)
-            System.out.println("dupsko");for(int i = 0 ; i<20;i++)
-            System.out.println("dupsko");for(int i = 0 ; i<20;i++)
-            System.out.println("dupsko");for(int i = 0 ; i<20;i++)
-            System.out.println("dupsko");for(int i = 0 ; i<20;i++)
-            System.out.println("dupsko");for(int i = 0 ; i<20;i++)
-            System.out.println("dupsko");for(int i = 0 ; i<20;i++)
-            System.out.println("dupsko");for(int i = 0 ; i<20;i++)
-            System.out.println("dupsko");for(int i = 0 ; i<20;i++)
-            System.out.println("dupsko");for(int i = 0 ; i<20;i++)
-            System.out.println("dupsko");for(int i = 0 ; i<20;i++)
-            System.out.println("dupsko");for(int i = 0 ; i<20;i++)
-            System.out.println("dupsko");for(int i = 0 ; i<20;i++)
-            System.out.println("dupsko");for(int i = 0 ; i<20;i++)
-            System.out.println("dupsko");
-                      
+    class odbyt
+    {
+        String dupa = "ahahahah";
     }
+    public static void main(String[] args)  {
+        int d;
+      if( (d=0) == 0)
+      {
+          for(int chujowie=0;chujowie<10;chujowie++)
+            System.out.println("hoohohoh");
+      }
+  
+}
 }
